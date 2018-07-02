@@ -14,7 +14,7 @@ During our project, we will attempt to characterise a new potassium cell, which 
 
 ### Who are we?
 
-<a href="url"><img src="https://daw538.github.io/hirosplacement/Intro/Emma.JPG" align="right" height="180" ></a>
+<a href="url"><img src="https://daw538.github.io/hirosplacement/Intro/Emma.JPG?raw=true" align="right" height="180" ></a>
 Hello! I’m Emma, and I’ve just completed the third year on the MSci Physics program. I wanted to work on this summer project because I’m interested in astronomical instrumentation, and it’s also a great opportunity to gain experience of working in an academic research group. Throughout my degree, I have done a lot of work on stellar physics but also worked on a variety of projects in the general physics laboratory. This project should give me a chance to pull all of my experience together. I’m not sure yet what I’d like to do after university, I’ll probably apply for a mixture of jobs and PhDs!
 <BR CLEAR="all">
 
