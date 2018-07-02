@@ -11,10 +11,11 @@ Eventually, we obtained a CCDSPEC, usually used in the year 1 laboratory for obs
 <br>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/CCDSPEC.jpg" align="left" height="180" ></a>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/NaLampTest2.jpg" align="middle" height="180" ></a>
-<br> <br>
+<br>
+
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/NaLampSpec.jpg" align="left" height="180" ></a>
 <!--crop images, move text-->
-
+<BR CLEAR="left">
 We found that the single line of the laser light was visible in the spectrometer output, but it was not clear whether the resolution of the device would be sufficient to allow the small changes in wavelength caused by tuning the laser to be observed. To test this, we rotated the output diffraction grating through its full range, giving the largest wavelength change we would expect to use. There was a small difference in the spectra obtained, but the change was certainly not clear enough to make the setup a suitable substitute for the broken spectrum analyser.
 <br>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/0V peak.jpg" align="left" height="200" ></a>
