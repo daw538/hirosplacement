@@ -9,8 +9,8 @@ During our project, we will attempt to characterise a new potassium cell, which 
 
 #### Weekly Updates
 
-[Week 1](https://github.com/daw538/hirosplacement/blob/master/week1.md)<br>
-[Week 2](https://github.com/daw538/hirosplacement/blob/master/week2.md)<br>
+[Week 1](https://daw538.github.io/hirosplacement/week1)<br>
+[Week 2](https://daw538.github.io/hirosplacement/week2)<br>
 
 ### Who are we?
 
