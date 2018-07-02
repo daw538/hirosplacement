@@ -1,11 +1,16 @@
 ## HiROS Summer Placement 2018
 ### Introduction
 
-Welcome to this blog describing our summer project in the HiROS Research Group in the School of Physics and Astronomy at the University of Birmingham. We are three undergraduate physics students who will be working in the group for the next six weeks. Ultimately, we are aiming to find out what it’s like to work in an academic research group and to show you what kind of opportunities are available to students at Birmingham.
+Welcome to this blog describing our summer project in the HiROS Research Group in the School of Physics and Astronomy at the University of Birmingham. We are three undergraduate physics students who will be working in the group for six weeks during June and July. Ultimately, we are aiming to find out what it’s like to work in an academic research group and to show you what kind of opportunities are available to students at Birmingham.
 
 The HiROS (High-Resolution Optical Spectroscopy) group studies the Sun, Stars, and Exoplanets, primarily focussing on asteroseismology; the study of stellar oscillations. These oscillations allow researchers to study the interiors of stars, giving new insights into their structure and evolution. The group runs a global network of observatories called BiSON, dedicated to studying the oscillations of the Sun. These observatories use resonant scattering spectrometers to collect very high-resolution data on the Solar oscillations. The spectrometers work by passing sunlight through a glass cell containing potassium vapour, which scatters the incident light. Detectors are positioned at right angles to the cell to observe only the scattered light. The cell is placed in a magnetic field which splits the absorption line (Zeeman splitting).
 
 During our project, we will attempt to characterise a new potassium cell, which may be useful in upgrading the BiSON instrumentation. The characterisation will be completed using a tunable laser (one which allows the wavelength to be changed within a small range).
+
+#### Weekly Updates
+
+[Week 1](https://github.com/daw538/hirosplacement/edit/master/week1.md)<br>
+[Week 2](https://github.com/daw538/hirosplacement/edit/master/week2.md)<br>
 
 ### Who are we?
 
