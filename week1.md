@@ -13,7 +13,7 @@ Eventually, we obtained a CCDSPEC, usually used in the year 1 laboratory for obs
 
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/CCDSPEC.jpg?raw=true" align="left" height="180" ></a>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/NaLampTest3.png?raw=true" align="middle" height="180" ></a>
-<br>
+
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/NaLampSpec.jpg?raw=true" align="left" height="200" ></a>
 
 ***Top Left:** CCDSPEC.
