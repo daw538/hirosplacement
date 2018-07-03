@@ -21,7 +21,8 @@ We found that the single line of the laser light was visible in the spectrometer
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/0V peak2.jpg?raw=true" align="left" height="200" ></a>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/140V peak2.jpg?raw=true" align="middle" height="200" ></a>
 <!--crop images-->
-**left:0V; right:140V**
+
+*Left: 0V Position. Right: 140V Position*
 
 Without being able to observe changes in the laser output, learning how the laser works became much more challenging! We spent a morning reading up on the relevant theory to get more familiar with the operation and, in the afternoon, met with our supervisors to come up with a plan for the rest of the project. We decided that we should investigate options for mounting the strong magnets required for Zeeman splitting around the new cell. We started to experiment with some already mounted magnets, to determine the magnetic field strength we could obtain with the separation increased to accommodate the larger cell.
 
@@ -29,4 +30,4 @@ In order to be able to see the Zeeman splitting of the line spectra, it was nece
 <br>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/MagnetMock.jpg?raw=true" align="left" height="180" ></a>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/BiSONCell.jpg?raw=true" align="middle" height="180" ></a>
-<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/model_old.png?raw=true" align="middle" width="180" ></a>
+<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/Model_old.png?raw=true" align="middle" height="180" ></a>
