@@ -14,7 +14,7 @@ Given the previous difficulties in determining the potassium absorption line wit
 <!--<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/powersupply.JPG?raw=true" align="left" height="300" ></a>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/tungstenlamp.jpg?raw=true" align="middle" height="300" ></a>-->
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/powersupply.JPG?raw=true" align="left" height="180" ></a>
-<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/tungstenlamp.jpg?raw=true" align="middle" height="180" ></a>
+<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/tungstenlamp2.png?raw=true" align="middle" height="180" ></a>
 *caption here*
 
 Making fine adjustments to the coarse tuning of the laser is very difficult, and without a high-resolution spectrometer it would be much like trying to find a needle in a haystack. We therefore decided that it would be more sensible to try and prove the composition of the vapour in the cell. To do this we shone a broad-spectrum light source (tungsten lamp) through the cell and into the CCDSPEC. The presence of a particular element can be identified through the location of any clear absorption lines in the detected spectrum. We began to suspect that the CCDSPEC offered insufficient resolution to make such features visible.
