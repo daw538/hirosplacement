@@ -41,8 +41,8 @@ Without being able to observe changes in the laser output, learning how the lase
 
 In order to be able to see the Zeeman splitting of the line spectra, it was necessary to calculate the minimum required magnetic field (under ideal conditions), which provided an estimate of ~150mT. Checking that the rig we had planned to build would meet this requirement was a more difficult task, as understanding how magnetic fields interact is not a simple task. To solve this we used a program called FEMM (Finite Element Method Magnetics) to simulate the magnetic fields that the potassium cell would sit in. FEMM can model a range of related problems from magnetic fields to current and heat flow in 2D or radially symmetric environments, which was sufficient for our needs. Our model predicted a field ranging from ~140-180mT longitudinally along the cell – we will need to wait until it is constructed to see how accurate these predictions were!
 <br>
-<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/BiSONCell.jpg?raw=true" align="middle" height="180" ></a>
-<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/MagnetMock.jpg?raw=true" align="left" height="180" ></a>
+<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/BiSONCell.jpg?raw=true" align="left" height="180" ></a>
+<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/MagnetMock.jpg?raw=true" align="middle" height="180" ></a>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/Model_old.png?raw=true" align="middle" height="200" ></a>
 
 ***Left:** Existing magnet cell used in the BiSON observatories
