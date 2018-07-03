@@ -49,6 +49,7 @@ In order to be able to see the Zeeman splitting of the line spectra, it was nece
 **Bottom:** Simulation of magnetic fields inside the larger magnetic cell*
 
 <BR CLEAR="left">
-  
+
+</br></br></br>
 [:house:](https://github.com/daw538/hirosplacement)
 [:arrow_right:](https://github.com/daw538/hirosplacement/blob/master/week2.md)
