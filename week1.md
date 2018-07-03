@@ -1,4 +1,4 @@
-## Week 1
+### Week 1
 
 We started the first week by completing a ‘project initiation document’.  This helped us to set out the goals of our project, and encouraged us to start thinking about a timeline. We decided that the first week would be dedicated to learning about how to use the laser in our laboratory.
 
@@ -18,9 +18,10 @@ Eventually, we obtained a CCDSPEC, usually used in the year 1 laboratory for obs
 <BR CLEAR="left">
 We found that the single line of the laser light was visible in the spectrometer output, but it was not clear whether the resolution of the device would be sufficient to allow the small changes in wavelength caused by tuning the laser to be observed. To test this, we rotated the output diffraction grating through its full range, giving the largest wavelength change we would expect to use. There was a small difference in the spectra obtained, but the change was certainly not clear enough to make the setup a suitable substitute for the broken spectrum analyser.
 <br>
-<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/0V peak.jpg?raw=true" align="left" height="200" ></a>
-<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/140V peak.jpg?raw=true" align="middle" height="200" ></a>
+<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/0V peak2.jpg?raw=true" align="left" height="200" ></a>
+<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/140V peak2.jpg?raw=true" align="middle" height="200" ></a>
 <!--crop images-->
+**left:0V; right:140V**
 
 Without being able to observe changes in the laser output, learning how the laser works became much more challenging! We spent a morning reading up on the relevant theory to get more familiar with the operation and, in the afternoon, met with our supervisors to come up with a plan for the rest of the project. We decided that we should investigate options for mounting the strong magnets required for Zeeman splitting around the new cell. We started to experiment with some already mounted magnets, to determine the magnetic field strength we could obtain with the separation increased to accommodate the larger cell.
 
