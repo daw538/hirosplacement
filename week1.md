@@ -1,4 +1,4 @@
-### Week 1
+## Week 1
 
 We started the first week by completing a ‘project initiation document’.  This helped us to set out the goals of our project, and encouraged us to start thinking about a timeline. We decided that the first week would be dedicated to learning about how to use the laser in our laboratory.
 
