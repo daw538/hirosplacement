@@ -7,10 +7,9 @@ The first tasks of the week included refining the magnetic models that we had st
 <!--<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/magmodelfinal.png?raw=true" align="right" height="300" ></a>-->
 
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/magmodelfinal.png?raw=true" align="left" height="300" ></a>
-
+</br></br></br></br>
 ***Left:*** *Final magnetic model showing cross-section through the yoke, produced using FEMM.*
-
-The first tasks of the week included refining the magnetic models that we had started making at the end of the first week. We also confirmed the materials involved to ensure that we were confident that a reasonable magnetic field could be achieved before taking the plans down to the workshop for manufacture.
+<BR CLEAR="left">
 
 Given the previous difficulties in determining the potassium absorption line with the CCDSPEC, we thought that the situation may be improved by increasing the temperature of the vapour cell since this will cause a broadening of the absorption line. The temperature controller provided could only heat the ovens surrounding the cell to 45°C, whilst the centre of the cell only attained around 32°C. By connecting the ovens to a variable power supply we were able to achieve a cell temperature of over 50°C. Despite this, we were still unable to find any absorption line using the fine tuning of the laser. At this point we feared the issue was us being incompetent, so we called up our technical supervisor; when he was unable to find it either , he suggested that either the coarse tuning of the laser had changed or the vapour cell didn’t contain the right element!
 
