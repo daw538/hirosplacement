@@ -6,16 +6,15 @@ The laser is a Toptica DL Pro, which is a tunable semiconductor diode laser. Thi
 <br>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/OSA.jpg?raw=true" align="left" height="180" ></a>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/OSA_Errors2.jpg?raw=true" align="middle" height="180" ></a>
+*Agilent 8614xB Series Optical Spectrum Analyser*
 
 Eventually, we obtained a CCDSPEC, usually used in the year 1 laboratory for observing the solar spectrum. After obtaining the software required to capture images from the ATIK CCD and process them to obtain a spectrum, we tested the device using a sodium vapour lamp. The spectrum we produced matched what we expected for the lamp, indicating that everything was working as expected. In order to use the CCDSPEC to make meaningful measurements, it would be necessary to calibrate it, using the known spectrum of the lamp. However, we were not sure if the wavelength range of the spectrometer would be sufficient to allow us to view the spectrum of the laser. This was, therefore, the next thing we tested.
 <br>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/CCDSPEC.jpg?raw=true" align="left" height="180" ></a>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/NaLampTest2.jpg?raw=true" align="middle" height="180" ></a>
 <br>
-
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/NaLampSpec.jpg?raw=true" align="left" height="200" ></a>
 <!--crop images, move text-->
-
 ***Top Left:** CCDSPEC.
 <br>
 **Top Right:** Optical enclosure containing equipment used in initial investigations.
@@ -28,7 +27,6 @@ We found that the single line of the laser light was visible in the spectrometer
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/0V peak2.jpg?raw=true" align="left" height="200" ></a>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/140V peak2.jpg?raw=true" align="middle" height="200" ></a>
 <!--crop images-->
-
 *Intensity spectra obtained from the laser with the tuning diffraction grating positioned at the extremes of its range
 <br>
 **Left:** 0V Position.
