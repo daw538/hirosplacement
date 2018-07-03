@@ -18,3 +18,8 @@ We were able to obtain a spectrometer with higher resolution, but which was limi
 <BR CLEAR="left">
 
 With further progress in the project reliant on the use of a higher resolution spectrometer, we made enquiries with the Cold Atoms group in the department in the hope we could borrow some equipment. As an alternative method, there was the option for an infrared version of the spectrometer used to test for sodium to be purchased. Unfortunately, scientific equipment comes with a hefty price tag and so if we were to have any chance of getting one, it would be necessary to write a short document to convince the department to purchase one. How successful that will be remains to be seen...
+
+
+<font size="1">[Previous Week](https://github.com/daw538/hirosplacement/blob/master/week1.md)</font>
+<font size="4">[Home](https://github.com/daw538/hirosplacement)</font>
+<font size="6">[Next Week](https://github.com/daw538/hirosplacement/blob/master/week3.md)</font>
