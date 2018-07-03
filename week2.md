@@ -20,6 +20,7 @@ Given the previous difficulties in determining the potassium absorption line wit
 
 ***Above Left:** Variable heater power supply* </br>
 ***Above:** Layout of equipment for testing cell with tungsten lamp*
+<BR CLEAR="left">
 
 <!--<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="3">
 <TR>
@@ -34,11 +35,13 @@ Making fine adjustments to the coarse tuning of the laser is very difficult, and
 
 <!--<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/ccs-100.jpg?raw=true" align="left" height="160" ></a>-->
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/ccs-100.jpg?raw=true" align="left" height="180" ></a>
+***Left:** CCS100 Fibre Spectrometer*
+<BR CLEAR="left">
 
-*caption here*
+
 
 We were able to obtain a spectrometer with higher resolution, but which was limited by a maximum wavelength of 700nm. With this spectrometer we were able to disprove the presence of Sodium in the cell, which has visible absorption lines (think of an orange street light bulb), but also show how this technique could be replicated if we had equipment ranging into the near-IR wavelengths.
-<BR CLEAR="left">
+
 
 With further progress in the project reliant on the use of a higher resolution spectrometer, we made enquiries with the Cold Atoms group in the department in the hope we could borrow some equipment. As an alternative method, there was the option for an infrared version of the spectrometer used to test for sodium to be purchased. Unfortunately, scientific equipment comes with a hefty price tag and so if we were to have any chance of getting one, it would be necessary to write a short document to convince the department to purchase one. How successful that will be remains to be seen...
 
