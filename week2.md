@@ -18,8 +18,17 @@ Given the previous difficulties in determining the potassium absorption line wit
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/powersupply.JPG?raw=true" align="left" height="180" ></a>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/tungstenlamp2.png?raw=true" align="middle" height="180" ></a>
 
-***Far Left:** Variable heater power supply*
-***Left:** Layout of equipment for testing cell with tungsten lamp*
+***Above Left:** Variable heater power supply* </br>
+***Above:** Layout of equipment for testing cell with tungsten lamp*
+
+<!--<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR>
+<TD> <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/powersupply.JPG?raw=true" align="left" height="180" ></a></TD>
+<TD> <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/tungstenlamp2.png?raw=true" align="middle" height="180" ></a></TD>
+  <TD><i><b>Far Left:</b> Variable heater power supply</i></br>
+  <i><b>Left:</b> Layout of equipment for testing</br> cell with tungsten lamp</i></TD>
+</TR>
+</TABLE>-->
 
 Making fine adjustments to the coarse tuning of the laser is very difficult, and without a high-resolution spectrometer it would be much like trying to find a needle in a haystack. We therefore decided that it would be more sensible to try and prove the composition of the vapour in the cell. To do this we shone a broad-spectrum light source (tungsten lamp) through the cell and into the CCDSPEC. The presence of a particular element can be identified through the location of any clear absorption lines in the detected spectrum. We began to suspect that the CCDSPEC offered insufficient resolution to make such features visible.
 
