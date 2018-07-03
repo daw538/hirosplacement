@@ -7,8 +7,8 @@ The first tasks of the week included refining the magnetic models that we had st
 <!--<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/magmodelfinal.png?raw=true" align="right" height="300" ></a>-->
 
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/magmodelfinal.png?raw=true" align="left" height="300" ></a>
-</br></br></br></br>
-***Left:*** *Final magnetic model showing cross-section through the yoke, produced using FEMM.*
+</br></br></br></br></br>
+***Left:** Final magnetic model showing cross-section through the yoke, produced using FEMM.*
 <BR CLEAR="left">
 
 Given the previous difficulties in determining the potassium absorption line with the CCDSPEC, we thought that the situation may be improved by increasing the temperature of the vapour cell since this will cause a broadening of the absorption line. The temperature controller provided could only heat the ovens surrounding the cell to 45°C, whilst the centre of the cell only attained around 32°C. By connecting the ovens to a variable power supply we were able to achieve a cell temperature of over 50°C. Despite this, we were still unable to find any absorption line using the fine tuning of the laser. At this point we feared the issue was us being incompetent, so we called up our technical supervisor; when he was unable to find it either , he suggested that either the coarse tuning of the laser had changed or the vapour cell didn’t contain the right element!
@@ -17,7 +17,9 @@ Given the previous difficulties in determining the potassium absorption line wit
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/tungstenlamp.jpg?raw=true" align="middle" height="300" ></a>-->
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/powersupply.JPG?raw=true" align="left" height="180" ></a>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/tungstenlamp2.png?raw=true" align="middle" height="180" ></a>
-*caption here*
+
+***Far Left:** Variable heater power supply*
+***Left:** Layout of equipment for testing cell with tungsten lamp*
 
 Making fine adjustments to the coarse tuning of the laser is very difficult, and without a high-resolution spectrometer it would be much like trying to find a needle in a haystack. We therefore decided that it would be more sensible to try and prove the composition of the vapour in the cell. To do this we shone a broad-spectrum light source (tungsten lamp) through the cell and into the CCDSPEC. The presence of a particular element can be identified through the location of any clear absorption lines in the detected spectrum. We began to suspect that the CCDSPEC offered insufficient resolution to make such features visible.
 
