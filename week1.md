@@ -1,4 +1,4 @@
-### Week 1
+## Week 1
 
 We started the first week by completing a ‘project initiation document’.  This helped us to set out the goals of our project, and encouraged us to start thinking about a timeline. We decided that the first week would be dedicated to learning about how to use the laser in our laboratory.
 
@@ -40,3 +40,7 @@ In order to be able to see the Zeeman splitting of the line spectra, it was nece
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/MagnetMock.jpg?raw=true" align="left" height="180" ></a>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/BiSONCell.jpg?raw=true" align="middle" height="180" ></a>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%201/Model_old.png?raw=true" align="middle" height="200" ></a>
+
+</br></br></br>
+[:house:](https://github.com/daw538/hirosplacement)
+[:arrow_right:](https://github.com/daw538/hirosplacement/blob/master/week2.md)
