@@ -35,7 +35,8 @@ Making fine adjustments to the coarse tuning of the laser is very difficult, and
 
 <!--<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/ccs-100.jpg?raw=true" align="left" height="160" ></a>-->
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/ccs-100.jpg?raw=true" align="left" height="180" ></a>
-***Left:** CCS100 Fibre Spectrometer*
+</br></br></br>
+***Left:** CCS100 Fibre Spectrometer used to observe sodium transition lines*
 <BR CLEAR="left">
 
 
