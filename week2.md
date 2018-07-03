@@ -2,10 +2,13 @@
 
 Welcome to the second installment of our summer placement blog.
 
+The first tasks of the week included refining the magnetic models that we had started making at the end of the first week. We also confirmed the materials involved to ensure that we were confident that a reasonable magnetic field could be achieved before taking the plans down to the workshop for manufacture.
+
 <!--<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/magmodelfinal.png?raw=true" align="right" height="300" ></a>-->
+
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%202/magmodelfinal.png?raw=true" align="left" height="300" ></a>
 
-*caption here*
+***Left:*** *Final magnetic model showing cross-section through the yoke, produced using FEMM.*
 
 The first tasks of the week included refining the magnetic models that we had started making at the end of the first week. We also confirmed the materials involved to ensure that we were confident that a reasonable magnetic field could be achieved before taking the plans down to the workshop for manufacture.
 
