@@ -6,8 +6,10 @@ The first task of the week was to prepare a case for the purchase of a new spect
 While waiting for replies from Cold Atoms group within the Physics Department on the possible borrowing of a new spectrometer, we focused on some blog writing that hopefully you currently enjoy reading it.
 
 Later in the week, we decided to attempt the fine adjustment of the laser that we were previously reluctant to adjust without being absolutely necessary! We estimated that changing the coarse tuning by 0.5nm increments would be sufficient and since a half turn of the course is equivalent to 6nm, we needed to rotate by 1/24th of a revolution each time. Although this was quite tricky, by sticking a clock-face around the adjustment screw (see picture below) we successfully moved the coarse for 0.5nm increments by using an allen key.
-<br>
-<img src=https://github.com/daw538/hirosplacement/blob/master/Week%203/coarse.jpg alt=" Tuning the laser with an allen key " width="400" height="200" align="centre">
+<img src=https://github.com/daw538/hirosplacement/blob/master/Week%203/coarse.jpg width="400" height="200" align="left">
+</br></br></br></br></br>
+*Tuning the laser via an allen key.*
+<BR CLEAR="left">
 
 The x and y-axes represent the voltage (V) and the current (mA) respectively. After each increment, we moved along the x-axis (from minimum to maximum voltage offset), with the hope that a gaussian absorption line will appear along one of the scans. However, after moving the coarse by 8.5nm the laser controller displayed an  error message accompanied by a buzzing noise. After seeing the error message we noticed the laser current started to misbehave as we adjusted the axis voltage. Hence, we decided to not to continue using the equipment  until speaking to our technical supervisor for advice. 
 
