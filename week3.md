@@ -20,9 +20,9 @@ Our alternative approach  was to collect some sunlight by pointing an optical fi
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%203/RoofLab.png width="430" height="250" >
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%203/solarscope.jpg width="430" height="250">
 </br>
-__*Top Left*__:_Set up with fibre and spectrometer._
+__*Top Left*__: _Set up with fibre and spectrometer._
 </br>
-__*Top Right*__:_Tuts and Emma using the solarscope._
+__*Top Right*__: _Tuts and Emma using the solarscope._
 </br></br>
 With the collected data, we can use the solar spectrum to calculate the radial velocity measurements for the surface of the sun. If we can achieve sufficient precision measurement with a single fibre-fed spectrometer, combining several numbers of them (~150-200) can achieve a precision similar to expensive HiROS telescopes. Therefore, for the following weeks of the project, we will check if that theory can be justified.
 
