@@ -17,8 +17,12 @@ The x and y-axes represent the voltage (V) and the current (mA) respectively. Af
 After the concerning error messages on our equipment, we decided to do something completely different to our main project while waiting to finalise if we can use the laser again.
 Our alternative approach  was to collect some sunlight by pointing an optical fibre directly at the sun and capturing successive one second  exposures through the spectrometer we had previously tested with the tungsten lamp in the previous week. In the meantime, we had some fun by using our solar telescope to observe the sun! 
 </br></br>
-<img src=https://github.com/daw538/hirosplacement/blob/master/Week%203/RoofLab.png width="400" height="200" >
-<img src=https://github.com/daw538/hirosplacement/blob/master/Week%203/solarscope.jpg width="400" height="200">
+<img src=https://github.com/daw538/hirosplacement/blob/master/Week%203/RoofLab.png width="430" height="250" >
+<img src=https://github.com/daw538/hirosplacement/blob/master/Week%203/solarscope.jpg width="430" height="250">
+</br>
+__Top Left__:_Set up with fibre and spectrometer_
+</br>
+__Top Right__:_Tuts and Emma using the solarscope_
 </br></br>
 With the collected data, we can use the solar spectrum to calculate the radial velocity measurements for the surface of the sun. If we can achieve sufficient precision measurement with a single fibre-fed spectrometer, combining several numbers of them (~150-200) can achieve a precision similar to expensive HiROS telescopes. Therefore, for the following weeks of the project, we will check if that theory can be justified.
 
