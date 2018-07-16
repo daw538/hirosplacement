@@ -7,6 +7,7 @@ At the end of week 3, we have collected some sunlight in order to calculate radi
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/scatter1.png width="430" height="255">
 <br/>
 *1 Spectrum from first and second data sets.*
+<br/>
 *__Top Left__* : *First data set, sodium line is hidden behind the noise at ~589nm.*
 <br/>
 *__Top Right__*: *Second data set, sodium line at ~589nm is circled in red.*
@@ -16,7 +17,8 @@ We also made a combined plot showing the combination of multiple numbers of spec
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/combined30noisy.png width="430" height="254" >
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/combined30.png width="430" height="250">
 <br/>
-30 spectra are combined from first and second data sets.
+*30 spectra are combined from first and second data sets.*
+<br/>
 *__Top Left__* : *First data set, higher noise level and shifts showing during the time.*
 <br/>
 *__Top Right__*: *Second data set, less noisy and more precise. Sodium absorbtion line is circled in red.*
