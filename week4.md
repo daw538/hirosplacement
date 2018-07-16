@@ -6,18 +6,20 @@ At the end of week 3, we have collected some sunlight in order to calculate radi
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/scatter1n.png width="430" height="252" >
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/scatter1.png width="430" height="255">
 <br/>
-*__Top Left__* : *1 Spectrum from first data set. Sodium line is hidden behind the noise at ~589nm.*
+*1 Spectrum from first and second data sets.*
+*__Top Left__* : *First data set, sodium line is hidden behind the noise at ~589nm.*
 <br/>
-*__Top Right__*: *1 Spectrum from second data set. Sodium line at ~589nm is circled in red.*
+*__Top Right__*: *Second data set, sodium line at ~589nm is circled in red.*
 <br/><br/>
 We also made a combined plot showing the combination of multiple numbers of spectra to see how do they differ with respect to time. We aim to use the mean spectrum to calculate the wavelength shift between our and the official solar spectrum rest wavelengths. The difference of noisie level between first and second data set can be seen from the pictures below. The different colors on the plot determines the different observing times.
 <br/><br/>
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/combined30noisy.png width="430" height="254" >
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/combined30.png width="430" height="250">
 <br/>
-*__Top Left__* : *First data set, 30 spectra are combined.*
+30 spectra are combined from first and second data sets.
+*__Top Left__* : *First data set, higher noise level and shifts showing during the time.*
 <br/>
-*__Top Right__*: *Second data set, 30 spectra are combined. Sodium absorbtion line is circled in red.*
+*__Top Right__*: *Second data set, less noisy and more precise. Sodium absorbtion line is circled in red.*
 <br/><br/>
 How are we going to calculate the velocity?
 Via coding, we aimed to create an observer (in our case observer is us on the roof!)  and the sun position at a certain time which we can then calculate the relative distance between them. Hence, the change of distance with respect to time will give us the velocity that we are looking for. We aimed to get more progress on that during the upcoming weeks.
