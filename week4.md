@@ -1,7 +1,7 @@
 Good news from week 4! 
 Considering the past 3 weeks of the summer placement, this week has been both luckier and busier.
 
-At the end of week 3, we have collected some sunlight in order to calculate radial velocity. We spent most of the week 4 by analysing the useful solar data and to get the solar spectra out of them. Since our first set of data collection turned out to be noisy, we were not able to see some of the absorption lines (e.g Sodium at ~589nm) on the constructed spectra. Hence, we went to collect some more sunlight for a short time in order to check we can get less noisy data this time. The second data set collected was much better than the first one. The constructed spectra were showing the absorption lines much more clearly than the first spectra. You can see pictures below for comparison. 
+At the end of week 3, we have collected some sunlight in order to calculate radial velocity. We spent most of the week 4 by analysing the useful solar data and to get the solar spectra out of them. Since our first set of data collection turned out to be noisy, we were not able to see some of the absorption lines (e.g Sodium at ~589nm) on the constructed spectra. Hence, we went to collect some more sunlight for a short time in order to check we can get less noisy data this time. The second data set collected was much better than the first one. The constructed spectra was broader and showing the absorption lines much more clearly than the first spectra. You can see pictures below for comparison. 
 <br/><br/>
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/scatter1n.png width="430" height="252" >
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/scatter1.png width="430" height="255">
