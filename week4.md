@@ -15,7 +15,7 @@ At the end of week 3, we have collected some sunlight in order to calculate radi
 We also made a combined plot showing the combination of multiple numbers of spectra to see how do they differ with respect to time. We aim to use the mean spectrum to calculate the wavelength shift between our and the official solar spectrum rest wavelengths. The difference of noisie level between first and second data set can be seen from the pictures below. The different colors on the plot determines the different observing times.
 <br/><br/>
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/combined30noisy.png width="430" height="254" >
-<img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/combined30.png width="430" height="250">
+<img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/combined30.png width="430" height="254">
 <br/>
 *30 spectra are combined from first and second data sets.*
 <br/>
