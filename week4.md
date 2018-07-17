@@ -1,7 +1,7 @@
-Good news from week 4! 
-Considering the past 3 weeks of the summer placement, this week has been both luckier and busier.
+After three weeks of things not quite going to plan, it seems that good fortune has finally fallen upon us in the fourth week; which in turn allowed us to start undertaking proper data analysis.
 
-At the end of week 3, we have collected some sunlight in order to calculate radial velocity. We spent most of the week 4 by analysing the useful solar data and to get the solar spectra out of them. Since our first set of data collection turned out to be noisy, we were not able to see some of the absorption lines (e.g Sodium at ~589nm) on the constructed spectra. Hence, we went to collect some more sunlight for a short time in order to check we can get less noisy data this time. The second data set collected was much better than the first one. The constructed spectra was broader and showing the absorption lines much more clearly than the first spectra. You can see pictures below for comparison. 
+Previously, at the end of week 3, we had collected some data directly from sunlight in order to extract a clear solar spectrum, with the aim of calculating the radial velocity shift visible from our location. Unforunately, since our first set of data collection turned out to be noisy and often saturated, we were not able to see the absorption lines (e.g Sodium at ~589nm) clearly on the constructed spectrum. Hence, we made a second attempt to obtain data, which despite being on a cloudier day,  was much better than the first one. The absorption lines appeared much more clearly than in the spectrum from our first attempt. You can see pictures below for comparison.
+
 <br/><br/>
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/scatter1n.png width="430" height="252" >
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/scatter1.png width="430" height="255">
@@ -12,7 +12,7 @@ At the end of week 3, we have collected some sunlight in order to calculate radi
 <br/>
 *__Top Right__*: *Second data set, sodium line at ~589nm is circled in red.*
 <br/><br/>
-We also made a combined plot showing the combination of multiple numbers of spectra to see how do they differ with respect to time. We aim to use the mean spectrum to calculate the wavelength shift between our and the official solar spectrum rest wavelengths. The difference of noisie level between first and second data set can be seen from the pictures below. The different colors on the plot determines the different observing times.
+We also made a combined plot showing the combination of multiple normalised spectra to see how do they differ with respect to time. We aim to use the mean spectrum to calculate the wavelength shift between our and the reference solar spectrum rest wavelengths.The difference of noisie level between first and second data set can be seen from the pictures below. The different colors on the plot determines the different observing times.
 <br/><br/>
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/combined30noisy.png width="430" height="254" >
 <img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/combined30.png width="430" height="254">
@@ -24,9 +24,9 @@ We also made a combined plot showing the combination of multiple numbers of spec
 *__Top Right__*: *Second data set, less noisy and more precise. Sodium absorbtion line is circled in red.*
 <br/><br/>
 How are we going to calculate the velocity?
-Via coding, we aimed to create an observer (in our case observer is us on the roof!)  and the sun position at a certain time which we can then calculate the relative distance between them. Hence, the change of distance with respect to time will give us the velocity that we are looking for. We aimed to get more progress on that during the upcoming weeks.
+Using a script, we create to create an observer (in our case the observer is us on the roof!) and by using the sun’s position at a certain time which we can then calculate the relative distance between them. Hence, the change of distance with respect to time will give us the velocity that we are looking for. We aim to progress this further during the upcoming weeks.
 
-Moreover, we also have good news from the laser errors! Since our technical supervisor was away for a while, we were not able to fix the problems with the lasers by ourselves. However, he is back now and thankfully he took care of the laser and moreover he also fixed the spectrum analyser that was not working since the first day of the summer placement! Now, we should be able to use all of our equipment and successfully observe the potassium absorption line on the spectrum analyser. 
+In the meantime, we also have good news regarding the broken laser! Our technical advisor had been away for the past week upgrading the BiSON telescope in California.  Upon his return, he was able to fix both the laser and also the the spectrum analyser that had not been working from the outset  of the summer placement! Now we should be able to use all of our equipment and successfully observe the potassium absorption line on the spectrum analyser. 
 
 
 [:arrow_left:](https://github.com/daw538/hirosplacement/blob/master/week3.md)
