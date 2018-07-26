@@ -19,7 +19,7 @@ Additionally this week we were now able to return to using the optical and spect
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%205/osa_laser.png?raw=true" align="left" height="280" ></a>
 <BR CLEAR="left">
 
-_**Left:** View of laser line through the spectral analyser, showing a sharp peak at approximately 769.9nm. </br>
+_**Left:** View of laser line through the spectral analyser, showing a sharp peak at approximately 769.9nm._ </br>
 _**Right:** Appearance of a potential absorption line in the middle of the laser's peak._
 <BR CLEAR="left">
 
