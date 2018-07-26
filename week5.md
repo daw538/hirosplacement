@@ -36,7 +36,7 @@ _**Right:** Image of full temperature scan?_
 
 
 
-Finally, at the end of the week, we got back our magnet assembly that would be required to initiate Zeeman Splitting in the vapour cell. The measured field in the centre was around a third weaker than predicted in our model, however this can easily be accounted for by the lack of a cylindrical cross-section, and the fact that two sides of the yoke are just air! The spaces were required to fit the cell inside and allow attachment of the heater cables.
+Finally, at the end of the week, we got back our magnet assembly that would be required to initiate Zeeman Splitting in the vapour cell. The measured field in the centre was around a third weaker than predicted in our model, however this can easily be accounted for by the lack of a cylindrical cross-section, and the fact that two sides of the yoke are just air! These spaces were required to fit the cell inside and allow attachment of the heater cables.
 
 </br></br></br>
 [:arrow_left:](https://github.com/daw538/hirosplacement/blob/master/week4.md)
