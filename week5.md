@@ -9,15 +9,18 @@ With the spectral data that was taken previously, we were able to develop a code
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%205/change_velocity.png?raw=true" align="right" height="260" ></a>
 <BR CLEAR="left">
   
-_**Left:** Change in calculated distance throughout course of observations_ </br>
+_**Left:** Change in calculated distance throughout course of observations._ </br>
 _**Right:** Corresponding change in velocity, showing linearity._
 <BR CLEAR="left">
 
 Additionally this week we were now able to return to using the optical and spectroscopic equipment. By using a LED with a wavelength mirroring that of the potassium transition, we were able to locate the absorption line. With this information we moved back to the laser in order to pinpoint and identify its features.
 
-<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%205/spectrum_analyser.JPG?raw=true" align="left" height="300" ></a>
-</br></br></br></br></br>
-_View of laser line through the spectral analyser, showing a sharp peak at approximately 769.9nm._
+<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%205/spectrum_analyser.JPG?raw=true" align="left" height="280" ></a>
+<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%205/osa_laser.png?raw=true" align="left" height="280" ></a>
+<BR CLEAR="left">
+
+_**Left:** View of laser line through the spectral analyser, showing a sharp peak at approximately 769.9nm. </br>
+_**Right:** Appearance of a potential absorption line in the middle of the laser's peak._
 <BR CLEAR="left">
 
   
