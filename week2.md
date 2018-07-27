@@ -18,8 +18,8 @@ Given the previous difficulties in determining the potassium absorption line wit
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week_2/powersupply.JPG?raw=true" align="left" height="180" ></a>
 <a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week_2/tungstenlamp2.png?raw=true" align="middle" height="180" ></a>
 
-**Left:** Variable heater power supply* </br>
-**Right:** Layout of equipment for testing cell with tungsten lamp*
+***Left:** Variable heater power supply* </br>
+***Right:** Layout of equipment for testing cell with tungsten lamp*
 <BR CLEAR="left">
 
 <!--<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="3">
