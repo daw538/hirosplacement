@@ -5,8 +5,8 @@ We are finally now making progress and beginning to get some useful results!
 With the spectral data that was taken previously, we were able to develop a code that would automate the process of calculating the velocity changes by simply reading the time-stamp in the file names. From this we were able to see that both the velocity and distance changed linearly with time during the observations, but also estimated a Doppler Shift of approximately 70ms<sup>-1</sup>. Simply comparing this to the speed of light (10<sup>8</sup> ms<sup>-1</sup>) shows that the wavelength shift caused by this effect is extremely small and potentially tricky to observe. Later in the week we made further attempts to obtain more solar spectral data, however much of it was hampered by excessive noise or variability in the light levels, which caused images to saturate or not display a full spectrum. 
 
 
-<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%205/change_distance.png?raw=true" align="left" height="280" ></a>
-<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%205/change_velocity.png?raw=true" align="right" height="260" ></a>
+<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week_5/change_distance.png?raw=true" align="left" height="280" ></a>
+<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week_5/change_velocity.png?raw=true" align="right" height="260" ></a>
 <BR CLEAR="left">
   
 _**Left:** Change in calculated distance throughout course of observations._ </br>
@@ -15,8 +15,8 @@ _**Right:** Corresponding change in velocity, showing linearity._
 
 Additionally this week we were now able to return to using the optical and spectroscopic equipment. By using a LED with a wavelength mirroring that of the potassium transition, we were able to locate the absorption line. With this information we moved back to the laser in order to pinpoint and identify its features.
 
-<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%205/spectrum_analyser.JPG?raw=true" align="left" height="280" ></a>
-<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week%205/osa_laser.png?raw=true" align="left" height="280" ></a>
+<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week_5/spectrum_analyser.JPG?raw=true" align="left" height="280" ></a>
+<a href="url"><img src="https://github.com/daw538/hirosplacement/blob/master/Week_5/osa_laser.png?raw=true" align="left" height="280" ></a>
 <BR CLEAR="left">
 
 _**Left:** View of laser line through the spectral analyser, showing a sharp peak at approximately 769.9nm._ </br>

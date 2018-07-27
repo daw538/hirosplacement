@@ -3,8 +3,8 @@ After three weeks of things not quite going to plan, it seems that good fortune 
 Previously, at the end of week 3, we had collected some data directly from sunlight in order to extract a clear solar spectrum, with the aim of calculating the radial velocity shift visible from our location. Unfortunately, since our first set of data collection turned out to be noisy and often saturated, we were not able to see the absorption lines (e.g Sodium at ~589nm) clearly on the constructed spectrum. Hence, we made a second attempt to obtain data, which despite being on a cloudier day,  was much better than the first one. The absorption lines appeared much more clearly than in the spectrum from our first attempt. You can see pictures below for comparison.
 
 <br/><br/>
-<img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/scatter1n.png width="430" height="252" >
-<img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/scatter1.png width="430" height="255">
+<img src=https://github.com/daw538/hirosplacement/blob/master/Week_4/scatter1n.png width="430" height="252" >
+<img src=https://github.com/daw538/hirosplacement/blob/master/Week_4/scatter1.png width="430" height="255">
 <br/>
 *1 Spectrum from first and second data sets.*
 <br/>
@@ -14,8 +14,8 @@ Previously, at the end of week 3, we had collected some data directly from sunli
 <br/><br/>
 We also made a combined plot showing the combination of multiple normalised spectra to see how do they differ with respect to time. We aim to use the mean spectrum to calculate the wavelength shift between our and the reference solar spectrum rest wavelengths.The difference of noisie level between first and second data set can be seen from the pictures below. The different colors on the plot determines the different observing times.
 <br/><br/>
-<img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/combined30noisy.png width="430" height="254" >
-<img src=https://github.com/daw538/hirosplacement/blob/master/Week%204/combined30.png width="430" height="254">
+<img src=https://github.com/daw538/hirosplacement/blob/master/Week_4/combined30noisy.png width="430" height="254" >
+<img src=https://github.com/daw538/hirosplacement/blob/master/Week_4/combined30.png width="430" height="254">
 <br/>
 *30 spectra are combined from first and second data sets.*
 <br/>
